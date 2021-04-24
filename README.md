@@ -1,1 +1,2 @@
-# palak_class_36
+# synchronousBallMovement
+Ball moving synchronously
